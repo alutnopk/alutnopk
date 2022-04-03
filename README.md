@@ -15,9 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-So,
-no my bio isn't unique or quirky or anything.
-This is a half-baked bio.
-It's bad because I'm leaving room for improvement. So that I can cringe at this husk of an introduction.
-
-So uh, thanks for tuning in ig
+Imma try to keep this thing active
