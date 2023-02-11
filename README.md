@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Imma try to keep this thing active
+I can't (won't) think of a better summary of my life than this:
+
+> A dog ate my shoe. Patty first, then the crust.
