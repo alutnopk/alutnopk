@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I can't (won't) think of a better summary of my life than this:
+I can't (*won't*) think of anything better to write here than this:
 
 > A dog ate my shoe. Patty first, then the crust.
