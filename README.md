@@ -52,5 +52,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 I'm just gonna display this commit graph in a project of mine (out of vanity):
 
-![git-graph](git-graph.png "It's so pretty!!")
+![git-graph](git-graph-zoomed.png "I could stare at this for hours.")
 
