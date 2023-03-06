@@ -50,6 +50,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 -->
 
-I can't (*won't*) think of anything better to write here than this:
+I'm just gonna display this commit graph in a project of mine (out of vanity):
 
-> A dog ate my shoe. Patty first, then the crust.
+![git-graph](git-graph.png "It's so pretty!!")
+
