@@ -1,4 +1,4 @@
-### hi.
+### Hello there!
 
 <!--
 **alutnopk/alutnopk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,7 +50,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 -->
 
-I'm just gonna display this commit graph in a project of mine (out of vanity):
-
+I'm Kartik, a final year undergrad at IIT-KGP.
+P.S.: The following picture shows part of the commit graph from my [Databases](https://github.com/alutnopk/Hospital-Management-System) project.
 ![git-graph](git-graph.png "I could stare at this for hours.")
 
